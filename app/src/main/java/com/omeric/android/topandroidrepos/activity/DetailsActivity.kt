@@ -28,7 +28,7 @@ class DetailsActivity : AppCompatActivity()
 {
     companion object
     {
-        private val TAG = "omerD:" + this::class.java.name
+        private val TAG = "gipsy:" + this::class.java.name
         const val INTENT_USERNAME_ID = "USERNAME_ID"
         const val INTENT_REPOSITORY_NAME_ID = "REPOSITORY_NAME_ID"
     }

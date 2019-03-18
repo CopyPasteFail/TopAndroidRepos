@@ -24,7 +24,7 @@ class RepositoriesAdapter(
 {
     companion object
     {
-        private val TAG = "omerD:" + this::class.java.name
+        private val TAG = "gipsy:" + this::class.java.name
     }
 
     //A view holder inner class where we get reference to the views in the layout using their ID

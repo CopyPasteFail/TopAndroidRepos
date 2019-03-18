@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity()
 {
     companion object
     {
-        private val TAG = "omerD:" + this::class.java.name
+        private val TAG = "gipsy:" + this::class.java.name
         const val BASE_URL = "https://api.github.com/"
     }
 
